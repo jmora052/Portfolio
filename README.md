@@ -11,7 +11,7 @@ I will be storing my various Data Analytics portfolio projects here to showcase 
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Projects](#Projects)
-	+ [COVID Data Analysis](#COVID Project)
+	+ [COVID Data Analysis](#COVID-Project)
 
 ## Projects
 
