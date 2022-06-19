@@ -22,4 +22,4 @@ In this section, I will list my Data Analysis projects and explain the skills th
 - **Code**
 - **Summary**
 - **Language(s)**
-- **Skills*
+- **Skills**
