@@ -19,7 +19,7 @@ In this section, I will list my Data Analysis projects and explain the skills th
 
 ### COVID Project
 
-- **Code**
-- **Summary**
+- **Code:** []()
+- **Summary:**
 - **Language(s):** SQL, English
 - **Skills:** Joins, CTE's, Temp Tables, Subqueries, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
