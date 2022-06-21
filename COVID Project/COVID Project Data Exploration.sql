@@ -1,9 +1,9 @@
 -- Checking NULL values
 
-Select *
-From COVID_Deaths
-Where continent is NULL
-order by location, date
+SELECT *
+FROM COVID_Deaths
+WHERE continent IS NULL
+ORDER BY location, date
 
 
 -- Select Data that we'll be working with, location, date,
