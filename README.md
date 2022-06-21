@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, I'm Javier! I am currently a Development Coordinator at a non-profit institution, eeking to leverage data analytical skills to improve corporate performance as a data analyst.
+Hi, I'm Javier! I am currently a Development Coordinator at a non-profit institution, seeking to leverage data analytical skills to improve corporate performance as a data analyst.
 
 Some of my work experience consists of various data projects at my current role, such as creating and managing our first Crowdfunding database, creating a SQL concatenation stored procedure to automate customer concatenation for mailing data, and automating various weekly reports through Excel macros and VLOOKUPS. My other experience includes 4+ years of managing concurrent projects with competing deadlines, growing a Crowdfunding program to a $400,000 per year revenue core function, and presenting to Senior level colleagues with technical and non-technical backgrounds.
 
