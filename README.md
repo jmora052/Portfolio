@@ -15,11 +15,12 @@ I will be storing my various Data Analytics portfolio projects here to showcase 
 
 ## Projects
 
-In this section, I will list my Data Analysis projects and explain the skills that are showcased.
+In this section, I will list and track my Data Analysis projects and explain the skills that are showcased.
 
 ### COVID Project
 
-- **Code:** []()
-- **Summary:**
+- **Code:** ['COVID Project Data Exploration.sql'](https://github.com/jmora052/Portfolio-Projects/blob/7cb48f2833532f8b05ff07ee4a6c4d4c99418b6f/COVID%20Project/COVID%20Project%20Data%20Exploration.sql)
+- **Files:** ['File Directory'](https://github.com/jmora052/Portfolio-Projects/tree/main/COVID%20Project)
+- **Summary:** Utilizing a date-limited COVID data set from OurWorldInData.org, I wrote various SQL queries for exploratory data analysis. I showcase various essential SQL skills which I highlighted below.
 - **Language(s):** SQL, English
 - **Skills:** Joins, CTE's, Temp Tables, Subqueries, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
