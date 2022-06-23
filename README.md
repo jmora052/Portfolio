@@ -12,6 +12,7 @@ I will be storing my various Data Analytics portfolio projects here to showcase 
 - [Introduction](#Introduction)
 - [Projects](#Projects)
 	+ [COVID Data Analysis](#COVID-Project)
+		+ [Tableau COVID Dashboard]()
 
 ## Projects
 
@@ -25,7 +26,7 @@ In this section, I will list and track my Data Analysis projects and explain the
 - **Language(s):** SQL, English
 - **Skills:** Joins, CTE's, Temp Tables, Subqueries, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-### COVID Tableau Dashboard
+### Tableau COVID Dashboard
 
 - **Tableau Public:** [`Dashboard`](https://public.tableau.com/shared/4GFZB6R32?:display_count=n&:origin=viz_share_link)
 - **Queries Used:** [`SQL Queries`](https://github.com/jmora052/Portfolio/blob/c843816bb6103ca2253af13fd3bfd36d1afd0a35/Tableau%20COVID%20Dashboard/Tableau%20Project%20Queries.sql)
