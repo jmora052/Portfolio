@@ -12,7 +12,7 @@ I will be storing my various Data Analytics portfolio projects here to showcase 
 - [Introduction](#Introduction)
 - [Projects](#Projects)
 	+ [COVID Data Analysis](#COVID-Project)
-		+ [Tableau COVID Dashboard]()
+		+ [Tableau COVID Dashboard](#Tableau-COVID-Dashboard)
 
 ## Projects
 
