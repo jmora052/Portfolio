@@ -29,7 +29,7 @@ In this section, I will list and track my Data Analysis projects and explain the
 - **Files:** [`File Directory`](https://github.com/jmora052/Portfolio/tree/main/Data%20Cleaning%20in%20SQL)
 - **Summary:** Utilizing a Nashville housing dataset, I utilize SQL queries to clean a few columns. I showcase various complex SQL skills which I highlighted below.
 - **Language(s):** SQL
-- **Skills:** Self Joins, Nested CTE's, Filling NULL Values Within Column Using Other Columns, Loading Data Corrections, Substrings, CHARINDEX, Loading New Clean Columns, PARSENAME, Replacing Y and N Values with Yes/No in Field, Removing Duplicates, Backing Up Data to New Table
+- **Skills:** Self Joins, Nested CTE's, Filling NULL Values Within Column Using Other Columns, Loading Data Corrections, Substrings, CHARINDEX, Splitting Clean Data Into New Columns, PARSENAME, Replacing Y and N Values with Yes/No in Field, Removing Duplicates, Backing Up Data to New Table
 
 ### COVID Project (80,000 records)
 
