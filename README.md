@@ -23,6 +23,8 @@ I will be storing my various external data analytics portfolio projects here to 
 
 In this section, I will list and track my Data Analysis projects and explain the skills that are showcased.
 
+<br>
+
 ### Data Cleanup in SQL (50,000 records)
 
 - **Code:** [`Data Cleaning SQL Queries.sql`](https://github.com/jmora052/Portfolio/blob/d6a571cac0d69a4ebb17bbad5f0f63ce17f624a2/Data%20Cleaning%20in%20SQL/Data%20Cleaning%20SQL%20Queries.sql)
