@@ -4,7 +4,7 @@
 
 Hi, I'm Javier! I am currently a Development Coordinator at a non-profit institution, seeking to leverage my data analytical skills to improve corporate performance as a data analyst.
 
-My skills include SQL (Data Cleanup, Data Exploration, Data Analysis), Excel (Pivot Tables, Dashboards, Modeling, VLOOKUP), and Tableau (Dashboards).
+My skills include SQL (Data Cleanup, Data Exploration, Data Analysis, Transform, Load), Excel (Pivot Tables, Dashboards, Modeling, VLOOKUP), and Tableau (Dashboards).
 
 I have been honing my data analytics skills within my role and through external projects. My data projects in my current role include creating and managing our first Crowdfunding database, creating a SQL concatenation stored procedure to save 3 hours/week by automating customer concatenation for mailing data, and saving 2 hours/week automating various weekly reports through Excel macros and VLOOKUPS.
 My other experience includes 4+ years of managing concurrent projects with competing deadlines, growing a Crowdfunding program to a $400,000 per year revenue core function, and presenting to Senior level colleagues with technical and non-technical backgrounds.
