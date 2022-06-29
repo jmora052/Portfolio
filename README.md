@@ -32,6 +32,7 @@ In this section, I will list and track my Data Analysis projects and explain the
 - **Skills:** Self Joins, Nested CTE's, Filling NULL Values Within Column Using Other Columns, Loading Data Corrections, Substrings, CHARINDEX, Splitting Clean Data Into New Columns, PARSENAME, Replacing Y and N Values with Yes/No in Field, Removing Duplicates, Backing Up Data to New Table
 
 <br>
+
 ### COVID Project (80,000 records)
 
 - **Code:** [`COVID Project Data Exploration.sql`](https://github.com/jmora052/Portfolio/blob/57b0eb96e7cd9fba479063d39ab8367b5d29223e/COVID%20Project/COVID%20Project%20Data%20Exploration.sql)
@@ -41,6 +42,7 @@ In this section, I will list and track my Data Analysis projects and explain the
 - **Skills:** Joins, CTE's, Temp Tables, Subqueries, Window Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 <br>
+
 ### Tableau COVID Dashboard
 
 - **Tableau Public:** [`Dashboard`](https://public.tableau.com/shared/4GFZB6R32?:display_count=n&:origin=viz_share_link)
