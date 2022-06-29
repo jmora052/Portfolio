@@ -25,7 +25,8 @@ In this section, I will list and track my Data Analysis projects and explain the
 
 <br>
 
-### Data Cleanup in SQL (50,000 records)
+### Data Cleanup in SQL
+(50,000 records)
 
 - **Code:** [`Data Cleaning SQL Queries.sql`](https://github.com/jmora052/Portfolio/blob/d6a571cac0d69a4ebb17bbad5f0f63ce17f624a2/Data%20Cleaning%20in%20SQL/Data%20Cleaning%20SQL%20Queries.sql)
 - **Files:** [`File Directory`](https://github.com/jmora052/Portfolio/tree/main/Data%20Cleaning%20in%20SQL)
@@ -35,7 +36,8 @@ In this section, I will list and track my Data Analysis projects and explain the
 
 <br>
 
-### COVID Project (80,000 records)
+### COVID Project
+(80,000 records)
 
 - **Code:** [`COVID Project Data Exploration.sql`](https://github.com/jmora052/Portfolio/blob/57b0eb96e7cd9fba479063d39ab8367b5d29223e/COVID%20Project/COVID%20Project%20Data%20Exploration.sql)
 - **Files:** [`File Directory`](https://github.com/jmora052/Portfolio/tree/main/COVID%20Project)
