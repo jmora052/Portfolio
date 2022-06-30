@@ -1,4 +1,4 @@
-# Javier Morales - Data Analysis Portfolio Projects
+# Javier Morales - Data Analysis Portfolio
 
 ## Introduction
 
