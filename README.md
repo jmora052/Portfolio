@@ -18,6 +18,7 @@ I will be storing my various external data analytics portfolio projects here to 
 	+ [Data Cleanup in SQL](#Data-Cleanup-in-SQL)
 	+ [COVID Data Analysis](#COVID-Project)
 		+ [Tableau COVID Dashboard](#Tableau-COVID-Dashboard)
+	+ [Google Analytics Data Studio Dashboard](#Google-Analytics-Data-Studio-Dashboard)
 
 ## Projects
 
@@ -55,3 +56,11 @@ In this section, I will list and track my Data Analysis projects and explain the
 - **Technology:** Tableau, Tableau Public, SQL
 - **Skills:** Designing a Dashboard, Data Visualization, Forecasting, Geographical Data Analysis
 
+<br>
+
+### Google Analytics Data Studio Dashboard
+
+- **Data Studio:** [`Dashboard`](https://datastudio.google.com/reporting/7f2630e8-6b6c-40f0-ad6a-7ec2535df701)
+- **Summary:** Google Data Studio Dashboard created as a high-level visualization of Google Analytics data for a merchandise store. Includes high-level summary, adjustable time periods and trends, line graphs plotting trends over time, acquisition by channel overview, campaign performance, and drilldown map data.
+- **Technology:** Google Data Studio, Google Analytics 4 (GA4)
+- **Skills:** Designing a Dashboard, Data Visualization, Drilldown, Traffic Analytics, Campaign Performance
