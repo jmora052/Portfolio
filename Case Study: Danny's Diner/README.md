@@ -1,4 +1,6 @@
-https://8weeksqlchallenge.com/images/case-study-designs/1.png![image](https://user-images.githubusercontent.com/106840819/177018730-f931752d-0cf0-45b0-b39d-03df04024865.png)
+<p align="center">
+  <img src= "https://user-images.githubusercontent.com/106840819/177018730-f931752d-0cf0-45b0-b39d-03df04024865.png" alt="Case Study: Danny's Diner" width="400">
+</p>
 
 
 # Danny's Diner Case Study
