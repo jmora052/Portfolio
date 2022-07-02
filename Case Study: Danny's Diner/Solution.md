@@ -105,18 +105,18 @@ However, since the question asks for only two elements, the most purchased item 
 ```SLQ
 WITH CTE_top_seller
 AS(
-SELECT m.product_name, count(s.product_id) as total_bought
-FROM sales as s
-JOIN menu as m
-ON s.product_id = m.product_id
-GROUP BY s.product_id
-ORDER BY total_bought DESC
+	SELECT m.product_name, count(s.product_id) as total_bought
+	FROM sales as s
+	JOIN menu as m
+		ON s.product_id = m.product_id
+	GROUP BY s.product_id
+	ORDER BY total_bought DESC
 ),
 CTE_denserank
 AS(
-SELECT product_name, total_bought,
-DENSE_RANK() OVER (ORDER BY total_bought DESC) as purchase_frequency
-FROM CTE_top_seller
+	SELECT product_name, total_bought,
+	DENSE_RANK() OVER (ORDER BY total_bought DESC) as purchase_frequency
+	FROM CTE_top_seller
 )
 SELECT product_name, total_bought
 FROM CTE_denserank
