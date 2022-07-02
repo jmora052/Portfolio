@@ -3,7 +3,7 @@ Remember, all of these questions must be answered in a single SQL query. Also ke
 
 ## 1. What is the total amount each customer spent at the restaurant?
 
-### SQL and Analysis
+### SQL and Reasoning
 
 To find this answer, we need to simply use a SUM aggregate function with a GROUP BY clause to find how much each customer spent.
 
