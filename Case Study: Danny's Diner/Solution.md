@@ -35,11 +35,12 @@ Here, we need to find the number of visits to the restaurant. We can't simply do
 Instead, we use a DISTINCT function to remove duplicate dates and put it in a CTE to COUNT the deduped date column.
 
 ```SQL
-WITH distinct_days
-AS (
-SELECT DISTINCT customer_id, order_date
-FROM sales
+WITH distinct_days AS
+(
+	SELECT DISTINCT customer_id, order_date
+	FROM sales
 )
+
 SELECT customer_id, COUNT(order_date) as days_visited
 FROM distinct_days
 GROUP BY customer_id
@@ -67,14 +68,15 @@ We partition by customer_id, since we're looking for a ranking per customer.
 Then, we use a CTE to show only the two fields requested and to ensure only the items with a rank of 1 are shown, the first item ordered by each customer.
 
 ```SQL
-WITH CTE_purchase_order
-AS (
-SELECT s.customer_id, s.order_date, s.product_id, m.product_name,
-DENSE_RANK() OVER (PARTITION BY s.customer_id ORDER BY s.order_date) as purchase_order
-FROM sales as s
-JOIN menu as m
-	ON s.product_id = m.product_id
+WITH CTE_purchase_order AS
+(
+	SELECT s.customer_id, s.order_date, s.product_id, m.product_name,
+	DENSE_RANK() OVER (PARTITION BY s.customer_id ORDER BY s.order_date) as purchase_order
+	FROM sales as s
+	JOIN menu as m
+		ON s.product_id = m.product_id
 )
+
 SELECT customer_id, product_name as first_purchase
 FROM CTE_purchase_order
 WHERE purchase_order = 1
@@ -103,8 +105,8 @@ First, we'll need to create a CTE to grab a count of each item and order it by f
 However, since the question asks for only two elements, the most purchased item and how many times it was purchased, we need to create a nested CTE to hide the DENSE_RANK column.
 
 ```SLQ
-WITH CTE_top_seller
-AS(
+WITH CTE_top_seller AS
+(
 	SELECT m.product_name, count(s.product_id) as total_bought
 	FROM sales as s
 	JOIN menu as m
@@ -112,18 +114,20 @@ AS(
 	GROUP BY s.product_id
 	ORDER BY total_bought DESC
 ),
-CTE_denserank
-AS(
+
+CTE_denserank AS
+(
 	SELECT product_name, total_bought,
 	DENSE_RANK() OVER (ORDER BY total_bought DESC) as purchase_frequency
 	FROM CTE_top_seller
 )
+
 SELECT product_name, total_bought
 FROM CTE_denserank
 WHERE purchase_frequency = 1
 ```
 
-## Answer
+### Answer
 
 | product_name | total_bought |
 |--------------|--------------|
