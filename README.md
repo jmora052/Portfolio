@@ -15,6 +15,7 @@ I will be storing my various external data analytics portfolio projects here to 
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Projects](#Projects)
+	+ [Danny's Diner: SQL and Analysis](#Danny's-Diner:-SQL-and-Analysis)
 	+ [Data Cleanup in SQL](#Data-Cleanup-in-SQL)
 	+ [COVID Data Analysis](#COVID-Project)
 		+ [Tableau COVID Dashboard](#Tableau-COVID-Dashboard)
@@ -26,6 +27,16 @@ In this section, I will list and track my Data Analysis projects and explain the
 
 <br>
 
+### Danny's Diner: SQL and Analysis
+
+- **Code and Analysis:** [`Danny's Diner: Analysis`](https://github.com/jmora052/Portfolio/blob/b7e00063b5eb3ea3b1684800d7560b829635d91d/Case%20Study:%20Danny's%20Diner/Analysis.md)
+- **Files:** [`File Directory`](https://github.com/jmora052/Portfolio/tree/main/Case%20Study:%20Danny's%20Diner)
+- **Summary:** I solve and analyze a case study by [Data with Danny](https://8weeksqlchallenge.com/case-study-1/). The purpose of this challenge is to, utilizing a limited sample dataset, write SQL queries to answer Danny's questions and provide him a product he can use on his full dataset.
+- **Language(s):** SQL, Markdown
+- **Skills:** Scalable SQL Queries, Analysis of Customer Behavior, Aggregate Functions, Nested CTEs, Ranking Window Functions, Rewards System Implementation
+
+<br>
+
 ### Data Cleanup in SQL
 (50,000 records)
 
@@ -33,7 +44,7 @@ In this section, I will list and track my Data Analysis projects and explain the
 - **Files:** [`File Directory`](https://github.com/jmora052/Portfolio/tree/main/Data%20Cleaning%20in%20SQL)
 - **Summary:** Utilizing a Nashville housing dataset, I utilize SQL queries to clean a few columns. I showcase various complex SQL skills which I highlighted below.
 - **Language(s):** SQL
-- **Skills:** Self Joins, Nested CTE's, Filling NULL Values Within Column Using Other Columns, Loading Data Corrections, Substrings, CHARINDEX, Splitting Clean Data Into New Columns, PARSENAME, Replacing Y and N Values with Yes/No in Field, Removing Duplicates, Backing Up Deleted Data to New Table for Client Reference
+- **Skills:** Self Joins, Nested CTEs, Filling NULL Values Within Column Using Other Columns, Loading Data Corrections, Substrings, CHARINDEX, Splitting Clean Data Into New Columns, PARSENAME, Replacing Y and N Values with Yes/No in Field, Removing Duplicates, Backing Up Deleted Data to New Table for Client Reference
 
 <br>
 
