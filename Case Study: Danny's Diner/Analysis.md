@@ -1,6 +1,6 @@
 # Case Study: Danny's Diner - Analysis
 Remember, all of these questions must be answered in a single SQL query. Also keep in mind, this is only a sampling of Danny's full data, and he wants to be able to apply these queries to his full dataset.
-Find the [full project scope here](Case Study: Danny's Diner/README.md).
+Find the [full project scope here](https://github.com/jmora052/Portfolio/blob/a18b595b56d79c3f2a0d6d208fd74f12f258c007/Case%20Study:%20Danny's%20Diner/README.md).
 
 ## 1. What is the total amount each customer spent at the restaurant?
 
