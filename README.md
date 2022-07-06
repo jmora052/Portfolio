@@ -15,11 +15,12 @@ I will be storing my various external data analytics portfolio projects here to 
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Projects](#Projects)
-	+ [Danny's Diner: SQL and Analysis](#Dannys-Diner:-SQL-and-Analysis)
+	+ [Danny's Diner: SQL and Analysis](#Dannys-Diner-SQL-and-Analysis)
 	+ [Data Cleanup in SQL](#Data-Cleanup-in-SQL)
 	+ [COVID Data Analysis](#COVID-Project)
 		+ [Tableau COVID Dashboard](#Tableau-COVID-Dashboard)
 	+ [Google Analytics Data Studio Dashboard](#Google-Analytics-Data-Studio-Dashboard)
++ [Tableau Dashboards](https://public.tableau.com/app/profile/javier.morales4568)
 
 ## Projects
 
